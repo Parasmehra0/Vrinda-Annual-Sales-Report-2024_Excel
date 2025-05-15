@@ -18,7 +18,7 @@ Sales by Month: Column & Line combo chart
 Sales by City and Gender: Stacked Column chart
 Top Performing Channels: Pie chart
 Sales by Age Group: Bar chart
-Pivot Tables: To summarize sales by City, Channel, Gender, and Age Group
+Pivot Tables: To summarize sales by City, Channel, Gender, and Age Group.
 
 🧠 Key Insights
 Women are more likely to purchase – ~65% of the total sales were made by female customers.
